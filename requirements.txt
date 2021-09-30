@@ -1,0 +1,4 @@
+Opencv
+tensorflow-cpu
+mediapipe face detector
+numpy
